@@ -1,2 +1,2 @@
 # pf-react-release-playground
-Used for testing the pf-release build and release workflows
+Used for testing the pf-react build and release workflows

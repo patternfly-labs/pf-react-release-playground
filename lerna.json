@@ -1,0 +1,15 @@
+{
+  "version": "independent",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "message": "chore(release): releasing packages [ci skip]",
+      "conventionalCommits": true
+    }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json"
+}

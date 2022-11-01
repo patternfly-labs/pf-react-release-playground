@@ -1,0 +1,25 @@
+{
+  "name": "@patternfly-labs/pf-react-release-playground",
+  "version": "1.0.0",
+  "description": "Used for testing pf-react build and release workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patternfly-labs/pf-react-release-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patternfly-labs/pf-react-release-playground/issues"
+  },
+  "homepage": "https://github.com/patternfly-labs/pf-react-release-playground#readme",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.0.1"
+  }
+}
