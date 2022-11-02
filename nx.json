@@ -21,12 +21,11 @@
   },
   "targetDefaults": {
     "build": {
-      "inputs": [
-        "prod",
-        "^prod"
-      ],
       "dependsOn": [
         "^build"
+      ],
+      "outputs": [
+        "{projectRoot}/dist"
       ]
     },
     "test": {
