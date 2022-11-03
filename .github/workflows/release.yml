@@ -11,13 +11,13 @@ jobs:
       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '16'
       - name: Install deps
         run: npm ci
       - name: Build dist
-        run: yarn build
+        run: npm run build
       - name: Deploy to NPM and Github
         run: .github/release.sh
