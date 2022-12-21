@@ -1,6 +1,7 @@
 {
   "name": "@patternfly-labs/pf-react-release-playground",
   "version": "1.0.0",
+  "private": true,
   "description": "Used for testing pf-react build and release workflows",
   "main": "index.js",
   "scripts": {
