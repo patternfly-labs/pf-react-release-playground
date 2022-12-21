@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-alpha.2](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/remixapp@2.0.0-alpha.1...@patternfly-labs/remixapp@2.0.0-alpha.2) (2022-12-21)
+
+**Note:** Version bump only for package @patternfly-labs/remixapp
+
+
+
+
+
 # [2.0.0-alpha.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/remixapp@1.0.10...@patternfly-labs/remixapp@2.0.0-alpha.1) (2022-12-21)
 
 
