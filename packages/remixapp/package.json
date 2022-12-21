@@ -15,8 +15,8 @@
     "@remix-run/serve": "^1.5.1",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "@patternfly-labs/header": "*",
-    "@patternfly-labs/footer": "*"
+    "@patternfly-labs/header": "0.0.2",
+    "@patternfly-labs/footer": "0.0.1-alpha.2"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.5.1",
