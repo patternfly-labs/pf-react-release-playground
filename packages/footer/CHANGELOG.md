@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/footer@1.0.0-alpha.0...@patternfly-labs/footer@1.0.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* **footer:** remove alpha from version ([f355a54](https://github.com/patternfly-labs/pf-react-release-playground/commit/f355a54bf1b88840552d6a9ebc0523ee34a8eed3))
+
+
+
+
+
 # [1.0.0-alpha.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/footer@0.0.1-alpha.5...@patternfly-labs/footer@1.0.0-alpha.0) (2022-12-21)
 
 
