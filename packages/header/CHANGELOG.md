@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0-alpha.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@1.2.0-alpha.0...@patternfly-labs/header@1.2.0-alpha.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* **v2:** remove flags and push whitespace ([1cd9973](https://github.com/patternfly-labs/pf-react-release-playground/commit/1cd99734b10aa2b85d33182459e2e445cd58b094))
+
+
+
+
+
 # [1.2.0-alpha.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@1.1.2...@patternfly-labs/header@1.2.0-alpha.0) (2022-12-21)
 
 
