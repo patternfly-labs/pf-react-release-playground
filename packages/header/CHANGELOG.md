@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@1.1.1...@patternfly-labs/header@1.1.2) (2022-12-21)
+
+
+### Bug Fixes
+
+* **branch:** try to release from v2 ([809d21c](https://github.com/patternfly-labs/pf-react-release-playground/commit/809d21c4f4bbae77ef1e619ef8cf9afd8f623818))
+
+
+
+
+
 ## [1.1.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@0.1.0...@patternfly-labs/header@1.1.1) (2022-12-21)
 
 
