@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.1-alpha.4](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/footer@0.0.1-alpha.3...@patternfly-labs/footer@0.0.1-alpha.4) (2022-12-21)
+
+
+### Bug Fixes
+
+* **footer:** update footer whitespace ([49bfde7](https://github.com/patternfly-labs/pf-react-release-playground/commit/49bfde77b00cd048433213c13f0cae5bb3af76dd))
+
+
+
+
+
 ## 0.0.1-alpha.3 (2022-12-21)
 
 
