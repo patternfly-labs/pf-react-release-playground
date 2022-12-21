@@ -2441,23 +2441,6 @@
     node-addon-api "^3.2.1"
     node-gyp-build "^4.3.0"
 
-"@patternfly-labs/header@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@patternfly-labs/header/-/header-0.1.0.tgz#d6a8607ef662f9a08fad1ea81f4624d2ee0f8220"
-  integrity sha512-3F4nnl6iN+jflX4MOAhIjd0K6CumpgcHswrYekVkzZ+ZurLNvB1gYPJFrMM3JkLc7gAkxIbjg9tFu03kJwRr4g==
-  dependencies:
-    "@testing-library/react" "13.3.0"
-    "@types/jest" "^27.0.3"
-    "@types/react" "^17.0.14"
-    jest "^27.4.3"
-    react "18.1.0"
-    react-dom "18.1.0"
-    rollup "^2.60.2"
-    rollup-plugin-typescript2 "^0.31.1"
-    ts-jest "^27.1.1"
-    tslib "^2.3.1"
-    typescript "^4.5.2"
-
 "@phenomnomnominal/tsquery@4.1.1":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@phenomnomnominal/tsquery/-/tsquery-4.1.1.tgz#42971b83590e9d853d024ddb04a18085a36518df"
