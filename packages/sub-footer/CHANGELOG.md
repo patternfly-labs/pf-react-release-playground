@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@1.0.0-alpha.0...@patternfly-labs/sub-footer@1.0.1) (2022-12-21)
+
+
+### Bug Fixes
+
+* **subfooter:** fix subfooter version ([508241c](https://github.com/patternfly-labs/pf-react-release-playground/commit/508241c590005cc49d88f36e03666b8ad34777d0))
+
+
+
+
+
 # [1.0.0-alpha.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@0.3.0...@patternfly-labs/sub-footer@1.0.0-alpha.0) (2022-12-21)
 
 
