@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@0.0.3...@patternfly-labs/header@0.1.0) (2022-12-21)
+
+
+### Features
+
+* **header:** change the version to major ([9ba165a](https://github.com/patternfly-labs/pf-react-release-playground/commit/9ba165a5b1bf5e12ee0582863254b93a7f8cc738))
+
+
+### BREAKING CHANGES
+
+* **header:** Major bump on header
+
+
+
+
+
 ## 0.0.3 (2022-12-21)
 
 
