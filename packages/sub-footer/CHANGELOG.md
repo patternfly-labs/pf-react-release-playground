@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0-alpha.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@1.0.1...@patternfly-labs/sub-footer@1.1.0-alpha.0) (2022-12-21)
+
+
+### Features
+
+* **all:** add white spaces ([b4a04f0](https://github.com/patternfly-labs/pf-react-release-playground/commit/b4a04f00ea6453f41f3948ff96da6403e2267d1e))
+
+
+
+
+
 ## [1.0.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@1.0.0-alpha.0...@patternfly-labs/sub-footer@1.0.1) (2022-12-21)
 
 
