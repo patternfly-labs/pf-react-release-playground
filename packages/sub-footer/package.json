@@ -1,5 +1,5 @@
 {
-  "name": "@patternfly-labs/subFooter",
+  "name": "@patternfly-labs/sub-footer",
   "version": "0.0.0",
   "description": "sub footer project two ",
   "main": "dist/index.js",
