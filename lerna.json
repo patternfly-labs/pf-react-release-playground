@@ -2,6 +2,9 @@
   "version": "independent",
   "useWorkspaces": true,
   "command": {
+    "version": {
+      "allowBranch": ["main", "v2"]
+    }
     "publish": {
       "message": "chore(release): releasing packages [ci skip]",
       "conventionalCommits": true
