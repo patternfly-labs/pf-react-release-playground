@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-alpha.4](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-alpha.3...@patternfly-labs/sub-footer@2.0.0-alpha.4) (2023-06-05)
+
+
+### Bug Fixes
+
+* **main:** Fix versions ([aa0d72d](https://github.com/patternfly-labs/pf-react-release-playground/commit/aa0d72d7720b16264049d825a37db7a2c126c9ad))
+* **package:** reverse package versions, dry run ([d241213](https://github.com/patternfly-labs/pf-react-release-playground/commit/d24121316a8c196fe6191e26f8a7e9b93f3f3e48))
+* **sub-footer:** update package.json so version matches latest tag ([e9b0ba9](https://github.com/patternfly-labs/pf-react-release-playground/commit/e9b0ba9da8f6e53ec2f918eab7a69af88bf39042))
+* **sub:** Another whitespace commit ([ee575e9](https://github.com/patternfly-labs/pf-react-release-playground/commit/ee575e933a8850039f3c9d3e6e629881e48f5539))
+* **sub:** Test out dry run on sub-footer ([feb39a7](https://github.com/patternfly-labs/pf-react-release-playground/commit/feb39a7dd68376de85d5f827f0305d0522bb5b2b))
+
+
+
+
+
 # [2.0.0-alpha.3](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-alpha.2...@patternfly-labs/sub-footer@2.0.0-alpha.3) (2023-05-30)
 
 **Note:** Version bump only for package @patternfly-labs/sub-footer
