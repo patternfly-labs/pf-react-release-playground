@@ -1,6 +1,6 @@
 {
   "name": "@patternfly-labs/sub-footer",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "sub footer project two featbump",
   "main": "dist/index.js",
   "scripts": {
