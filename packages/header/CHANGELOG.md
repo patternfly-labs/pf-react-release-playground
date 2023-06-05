@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.3](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@1.2.2...@patternfly-labs/header@1.2.3) (2023-06-05)
+
+
+### Bug Fixes
+
+* **publishConfig:** use lerna dist-tag ([c09148f](https://github.com/patternfly-labs/pf-react-release-playground/commit/c09148fb2f5b48f7a1bd272c7f42aedf957ece8a))
+
+
+
+
+
 ## [1.2.2](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@1.2.1...@patternfly-labs/header@1.2.2) (2023-06-05)
 
 
