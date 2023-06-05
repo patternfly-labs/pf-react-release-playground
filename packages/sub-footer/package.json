@@ -1,7 +1,7 @@
 {
   "name": "@patternfly-labs/sub-footer",
   "version": "2.0.0-alpha.3",
-  "description": "sub footer project two feat",
+  "description": "sub footer project two features",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
