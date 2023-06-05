@@ -13,5 +13,8 @@ echo "Doing a release..."
 # Update their versions and changelogs according to angular commit guidelines
 # https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 
-# yarn run lerna publish --conventional-commits --conventional-prerelease --create-release=github --no-private --dist-tag=alpha --no-verify-access --yes
-yarn run lerna version --conventional-commits --conventional-prerelease --no-private --yes --no-git-tag-version --no-push
+# publish to github and npm
+yarn run lerna publish --conventional-commits --conventional-prerelease --create-release=github --no-private --dist-tag=alpha --no-verify-access --yes
+
+# dry run
+# yarn run lerna version --conventional-commits --conventional-prerelease --no-private --yes --no-git-tag-version --no-push
