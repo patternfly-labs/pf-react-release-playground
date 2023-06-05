@@ -12,5 +12,6 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "$schema": "node_modules/lerna/schemas/lerna-schema.json"
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "allowBranch": ["main", "v1"]
 }
