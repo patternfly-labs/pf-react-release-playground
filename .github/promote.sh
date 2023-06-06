@@ -18,3 +18,6 @@ yarn run lerna publish --conventional-commits --conventional-graduate --no-priva
 
 # dry run
 # yarn run lerna version --conventional-commits --conventional-graduate --no-private --yes --no-git-tag-version --no-push
+
+# immediately after promote - set up repo for next prerelease
+lerna version preminor --conventional-commits --no-private --yes --preid prerelease
