@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.1-prerelease.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@2.2.0...@patternfly-labs/header@2.2.1-prerelease.0) (2023-06-06)
+
+
+### Bug Fixes
+
+* **package:** update release and force publish ([a28cd78](https://github.com/patternfly-labs/pf-react-release-playground/commit/a28cd781a6a435938c181ba36cdda88e68848396))
+
+
+
+
+
 # 2.2.0 (2023-06-06)
 
 
