@@ -1,6 +1,6 @@
 {
   "name": "@patternfly-labs/header",
-  "version": "2.2.0-prerelease.0",
+  "version": "2.2.0",
   "main": "dist/index.js",
   "description": "hello - pre",
   "scripts": {
