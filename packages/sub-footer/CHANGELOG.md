@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.0.0 (2023-06-06)
+
+
+
+# 2.0.0 (2023-06-06)
+
+**Note:** Version bump only for package @patternfly-labs/sub-footer
+
+
+
+
+
 # [2.0.0-prerelease.5](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-prerelease.3...@patternfly-labs/sub-footer@2.0.0-prerelease.5) (2023-06-06)
 
 
