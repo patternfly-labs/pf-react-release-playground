@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0-alpha.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@2.0.0...@patternfly-labs/header@2.1.0-alpha.0) (2023-06-06)
+
+
+### Features
+
+* **header:** use feat option after major ([6ae2ccf](https://github.com/patternfly-labs/pf-react-release-playground/commit/6ae2ccfb2bc444b54c2a4dbd716079be6c73d945))
+
+
+
+
+
 # 2.0.0 (2023-06-06)
 
 
