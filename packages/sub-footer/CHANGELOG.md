@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-prerelease.5](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-prerelease.3...@patternfly-labs/sub-footer@2.0.0-prerelease.5) (2023-06-06)
+
+
+### Bug Fixes
+
+* **subfooter:** update prerelease four ([3aa3b2f](https://github.com/patternfly-labs/pf-react-release-playground/commit/3aa3b2fd52e91d96bddba241419dda2a537569d9))
+* **versions:** add git tag back ([063e94f](https://github.com/patternfly-labs/pf-react-release-playground/commit/063e94fd8d3eea84d004cae47a2f73940f65f625))
+
+
+
+
+
 # [2.0.0-prerelease.3](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-prerelease.1...@patternfly-labs/sub-footer@2.0.0-prerelease.3) (2023-06-06)
 
 
