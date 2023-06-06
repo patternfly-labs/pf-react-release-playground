@@ -2,7 +2,7 @@
   "name": "@patternfly-labs/header",
   "version": "2.1.0",
   "main": "dist/index.js",
-  "description": "hello - feat",
+  "description": "hello - pre",
   "scripts": {
     "build": "rimraf dist && rollup --config",
     "test": "jest"
