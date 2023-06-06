@@ -1,7 +1,7 @@
 {
   "name": "@patternfly-labs/footer",
   "version": "2.2.0",
-  "description": "footer project two - release me",
+  "description": "footer project two - sd",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
