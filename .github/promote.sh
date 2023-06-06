@@ -14,7 +14,7 @@ echo "Promoting a release..."
 # https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 
 # publish to github and npm
-# yarn run lerna publish --conventional-commits --conventional-graduate --no-private --dist-tag=latest --yes
+yarn run lerna publish --conventional-commits --conventional-graduate --no-private --dist-tag=latest --yes
 
 # dry run
-yarn run lerna version --conventional-commits --conventional-graduate --no-private --yes --no-git-tag-version --no-push
+# yarn run lerna version --conventional-commits --conventional-graduate --no-private --yes --no-git-tag-version --no-push
