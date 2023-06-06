@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-prerelease.3](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-prerelease.1...@patternfly-labs/sub-footer@2.0.0-prerelease.3) (2023-06-06)
+
+
+### Bug Fixes
+
+* **release:** update releases no amend ([50d30ba](https://github.com/patternfly-labs/pf-react-release-playground/commit/50d30baf26f5736fed6fd0367492d02e1ab87407))
+* **subfooter:** Test second release with amend ([145eaa4](https://github.com/patternfly-labs/pf-react-release-playground/commit/145eaa448078d2dc087c4d12e8edbff87ee9b210))
+* **subfooter:** Test using amend command for release ([0e78afc](https://github.com/patternfly-labs/pf-react-release-playground/commit/0e78afcaea4ed5fa88b508f5b96c7193825b363b))
+
+
+
+
+
 # [2.0.0-prerelease.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.0.0-alpha.4...@patternfly-labs/sub-footer@2.0.0-prerelease.1) (2023-06-05)
 
 
