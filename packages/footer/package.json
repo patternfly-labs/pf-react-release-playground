@@ -1,6 +1,6 @@
 {
   "name": "@patternfly-labs/footer",
-  "version": "2.0.1-alpha.0",
+  "version": "2.1.0-prerelease.0",
   "description": "footer project two - three",
   "main": "dist/index.js",
   "scripts": {
