@@ -1,6 +1,6 @@
 {
   "name": "@patternfly-labs/footer",
-  "version": "2.1.0-prerelease.1",
+  "version": "2.1.0-prerelease.2",
   "description": "footer project two - four",
   "main": "dist/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@patternfly-labs/sub-footer": "^2.0.1-alpha.0",
+    "@patternfly-labs/sub-footer": "^2.0.1-prerelease.0",
     "@testing-library/react": "13.3.0",
     "@types/jest": "^27.0.3",
     "@types/react": "^17.0.14",
