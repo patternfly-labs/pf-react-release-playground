@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1-alpha.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/footer@2.0.0...@patternfly-labs/footer@2.0.1-alpha.0) (2023-06-06)
+
+**Note:** Version bump only for package @patternfly-labs/footer
+
+
+
+
+
 # 2.0.0 (2023-06-06)
 
 
