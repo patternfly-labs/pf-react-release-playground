@@ -15,6 +15,8 @@ echo "Promoting ${RELEASE_VERSION} release..."
 # Update their versions and changelogs according to angular commit guidelines
 # https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 
+npm pkg set dependencies.@patternfly/patternfly=${CORE_VERSION} --workspace @patternfly-labs/footer --workspace @patternfly-labs/header --workspace @patternfly-labs/sub-footer 
+
 # publish to github and npm
 yarn run lerna publish --conventional-commits --conventional-graduate --no-private --dist-tag=latest --yes
 
