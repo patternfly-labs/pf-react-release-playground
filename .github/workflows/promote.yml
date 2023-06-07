@@ -1,14 +1,20 @@
 name: promote
 on:
-  push:
-    # Sequence of patterns matched against refs/tags
-    tags:        
-      - 'v2.**'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'The version to promote'
+        required: true
+      core-version:
+        description: 'The PatternFly core version'
+        required: false
 jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
       NPM_TOKEN: ${{ secrets.NPM_SECRET }}
+      CORE_VERSION: ${{ github.event.inputs.core-version }}
+      RELEASE_VERSION: ${{ github.event.inputs.version }}
       GH_TOKEN: ${{ secrets.DG_GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v3
