@@ -7,7 +7,9 @@ git config user.email "patternfly-build@redhat.com"
 git config user.name ${GIT_USERNAME}
 echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
 
-echo "Promoting a release..."
+echo "${CORE_VERSION} ${RELEASE_VERSION}"
+
+echo "Promoting ${RELEASE_VERSION} release..."
 # Lerna is complicated. Commands: https://github.com/lerna/lerna/tree/master/commands
 # Identify packages that have been updated since the previous tagged release
 # Update their versions and changelogs according to angular commit guidelines
