@@ -9,10 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NPM_TOKEN: ${{ secrets.NPM_SECRET }}
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_TOKEN: ${{ secrets.DG_GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v3
         with:
+          token: ${{ secrets.DG_GITHUB_TOKEN }} # needs to be an admin token to get around branch protection
           ref: main
       - uses: actions/setup-node@v3
         with:
