@@ -1,6 +1,6 @@
 {
   "name": "@patternfly-labs/header",
-  "version": "2.6.0-prerelease.1",
+  "version": "2.6.0",
   "main": "dist/index.js",
   "description": "hello - sd",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@patternfly/patternfly": "4.224.2",
+    "@patternfly/patternfly": "4.220.0",
     "@testing-library/react": "13.3.0",
     "@types/jest": "^27.0.3",
     "@types/react": "^17.0.14",
