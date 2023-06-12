@@ -7,15 +7,15 @@ git config user.email "patternfly-build@redhat.com"
 git config user.name ${GIT_USERNAME}
 echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
 
-echo "${CORE_VERSION} ${RELEASE_VERSION}"
-
-echo "Promoting ${RELEASE_VERSION} release..."
 # Lerna is complicated. Commands: https://github.com/lerna/lerna/tree/master/commands
 # Identify packages that have been updated since the previous tagged release
 # Update their versions and changelogs according to angular commit guidelines
 # https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 
-npm pkg set dependencies.@patternfly/patternfly=${CORE_VERSION} --workspace @patternfly-labs/footer --workspace @patternfly-labs/header --workspace @patternfly-labs/sub-footer 
+if [[ ! -z "${CORE_VERSION}" ]]; then
+  echo "updating to @patternfly/patternfly: ${CORE_VERSION"
+  npm pkg set dependencies.@patternfly/patternfly=${CORE_VERSION} --workspace @patternfly-labs/footer --workspace @patternfly-labs/header --workspace @patternfly-labs/sub-footer 
+fi
 
 # publish to github and npm
 yarn run lerna publish --conventional-commits --conventional-graduate --no-private --dist-tag=latest --yes
