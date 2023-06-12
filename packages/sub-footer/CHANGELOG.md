@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.7.0-prerelease.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.7.0-prerelease.0...@patternfly-labs/sub-footer@2.7.0-prerelease.1) (2023-06-12)
+
+
+### Bug Fixes
+
+* **sub-footer:** update to do first 2.7.0 prerelease ([b889f15](https://github.com/patternfly-labs/pf-react-release-playground/commit/b889f156b09f5f81a90ffcd9acdc6b8d8a341c1a))
+
+
+
+
+
 # [2.7.0-prerelease.0](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/sub-footer@2.6.0...@patternfly-labs/sub-footer@2.7.0-prerelease.0) (2023-06-07)
 
 **Note:** Version bump only for package @patternfly-labs/sub-footer
