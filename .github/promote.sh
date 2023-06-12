@@ -13,7 +13,7 @@ echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > ~/.npmrc
 # https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 
 if [[ ! -z "${CORE_VERSION}" ]]; then
-  echo "updating to @patternfly/patternfly: ${CORE_VERSION"
+  echo "updating to @patternfly/patternfly: ${CORE_VERSION}"
   npm pkg set dependencies.@patternfly/patternfly=${CORE_VERSION} --workspace @patternfly-labs/footer --workspace @patternfly-labs/header --workspace @patternfly-labs/sub-footer 
 fi
 
