@@ -1,6 +1,6 @@
 {
   "name": "@patternfly-labs/footer",
-  "version": "2.7.1-prerelease.0",
+  "version": "2.7.1-prerelease.1",
   "description": "footer project two - sd",
   "main": "dist/index.js",
   "scripts": {
