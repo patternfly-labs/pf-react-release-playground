@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.7.1 (2023-06-13)
+
+**Note:** Version bump only for package @patternfly-labs/header
+
+
+
+
+
 ## [2.7.1-prerelease.2](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/header@2.7.1-prerelease.1...@patternfly-labs/header@2.7.1-prerelease.2) (2023-06-13)
 
 
