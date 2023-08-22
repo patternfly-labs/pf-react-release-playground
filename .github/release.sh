@@ -14,7 +14,7 @@ echo "Doing a release..."
 # https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit
 
 # publish to github and npm
-yarn run lerna publish --conventional-commits --conventional-prerelease --preid=prerelease --no-private --dist-tag=prerelease --yes
+yarn run lerna publish prerelease --conventional-commits --conventional-prerelease --preid=prerelease --no-private --dist-tag=prerelease --yes
 
 # dry run
-# yarn run lerna version --conventional-commits --conventional-prerelease --no-private --yes --no-git-tag-version --no-push
+# yarn run lerna version prerelease --conventional-commits --conventional-prerelease --no-private --yes --no-git-tag-version --no-push
