@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.8.0-prerelease.2](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/footer@2.8.0-prerelease.1...@patternfly-labs/footer@2.8.0-prerelease.2) (2023-08-22)
+
+
+### Bug Fixes
+
+* Update Footer.tsx ([8d37399](https://github.com/patternfly-labs/pf-react-release-playground/commit/8d373998e9f28d50fc6e53bf87ac89d21e223b4d))
+
+
+
+
+
 # [2.8.0-prerelease.1](https://github.com/patternfly-labs/pf-react-release-playground/compare/@patternfly-labs/footer@2.8.0-prerelease.0...@patternfly-labs/footer@2.8.0-prerelease.1) (2023-06-13)
 
 **Note:** Version bump only for package @patternfly-labs/footer
